@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oblodev
+- 👋 Hi, I’m Dawid ✌️
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently using Reactjs/Nextjs for my web projects
 - If you have a project that you want to get started, think you need my help with something or just fancy saying hey, then get in touch.
